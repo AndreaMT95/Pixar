@@ -16,7 +16,7 @@ _Herramientas para crear el proyecto_
 
 * [Página web de Pixar](https://www.pixar.com/) 
 
-## Tecnologías 
+## Tecnologías 🧪
 
 * [HTML]
 * [CSS]
