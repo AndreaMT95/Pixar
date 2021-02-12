@@ -20,6 +20,7 @@ _Herramientas para crear el proyecto_
 
 * [HTML]
 * [CSS]
+* [SCSS]
 
 ## Expresiones de Gratitud 🎁
 * Ayuda y colaboración de nuestro profesor * [Eduardo Fierro](https://eduardofierro.pro/) 📢
