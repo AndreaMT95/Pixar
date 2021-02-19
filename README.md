@@ -23,5 +23,5 @@ _Herramientas para crear el proyecto_
 * [SCSS]
 
 ## Expresiones de Gratitud 🎁
-* Ayuda y colaboración de nuestro profesor * [Eduardo Fierro](https://eduardofierro.pro/) 📢
+* Ayuda y colaboración de nuestro profesor  [Eduardo Fierro](https://eduardofierro.pro/) 📢
 * Women 4IT (por darnos la oportunidad de acceder al curso) 🤓.
